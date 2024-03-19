@@ -1,10 +1,11 @@
+#Maintenant on veut avoir la valeur totale de la bibliothèque
 #Fonctions à coder :
     Faire une fonction pour avoir l'URL de l'ensemble des livre de la page
     Faire une fonction popur aller à la page suivante
     Faire une fonction pour avoir l'ensemble des URLS de la bibliothèque
     Faire une fonction qui récupère le prix
     Faire une fonction qui récupère la quantité
-    Faire une fonction pour calculer la valeur d'un livre'
+    Faire une fonction pour calculer la valeur d'un livre
 """
 from selectolax.parser import HTMLParser
 from loguru import logger
